@@ -1,0 +1,2 @@
+# hanzi
+Chinese characters app
